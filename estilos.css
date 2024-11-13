@@ -1,0 +1,33 @@
+
+.contenedor_form{
+    display: flex;
+    align-content: center;
+    justify-content: center;
+    margin-top: 20px;
+   
+    
+}
+.boton{
+    display: flex;
+    color:black;
+    border-radius: 9px;
+    background-color: #213489;
+    align-items: center;
+    color: #5A983C ;
+    border: solid #5A983C;
+}
+.form_cont{
+    margin: 20px;
+    justify-items: center;
+    background-color: #5A983C;
+    border-radius: 15px;
+    padding: 20px;
+    border: solid 5px #213489;
+    color: black
+}
+.inp{
+    border: solid 1px black;
+}
+.titulo{
+    color:#FF7575 ;
+}
